@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7Cgo4XyVTGRq1IUIpkB5+4X5WOnBd3p1VIBT2z3uTQos5pXaPHoI+1PFpYDewF6zmpoMUvYFh+cO1LCkwEHHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aagom\\source\\repos\\HistoryApp\\HistoryProject\\HistoryProject\\HistoryProject.iOS\\HistoryProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aagom\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
